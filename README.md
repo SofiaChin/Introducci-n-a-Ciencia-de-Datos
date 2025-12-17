@@ -5,7 +5,7 @@
 ---
 
 <img src="https://img.shields.io/badge/Tecnolog%C3%ADa-IA%20%26%20Data-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-<img src="https://img.shields.io/badge/Status-Git%20Hub-orange?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/TC PRO-Git%20Hub-orange?style=for-the-badge" alt="Status" />
 <img src="https://img.shields.io/badge/Semestre-2025-blue?style=for-the-badge" alt="Semestre" />
 
 <br>
