@@ -31,6 +31,8 @@ Este repositorio recopila las prácticas y aplicaciones desarrolladas durante el
 | **05** | **MyToDo List App** | `Productividad` | Aplicación de gestión de tareas con almacenamiento de datos local. | [Ver PDF](./Sofia%20Chin%20-%20Entregable_%20MyToDo%20List%20App.pdf) |
 | **06** | **Track My Mood** | `HealthTech` | Sistema de registro diario para el seguimiento del estado de ánimo. | [Ver PDF](./Sofia%20Chin%20-%20Entregable_%20Track%20My%20Mood%20.pdf) |
 | **07** | **CloudDB Chat App** | `Cloud Computing` | Desarrollo de un chat en tiempo real utilizando bases de datos en la nube. | [Ver PDF](./Sofia%20Chin%20-%20Tarea_%20CloudDB%20Chat%20App.pdf) |
+| **08** | **DIY Book Club** | `App Development` | Aplicación social para la gestión y registro de lecturas en un club de libros. | [Ver PDF](./Sofia%20Chin%20-%20Tarea_%20DIY%20Book%20Club.pdf) |
+| **09** | **Project IceMelt** | `Climate Change` | Modelado y predicción de datos sobre el deshielo y cambio climático. | [Ver PDF](./Sofia%20Chin%20-%20Entrega_%20Proyecto%20IceMelt_%20Modeling%20and%20Predicting%20Climate%20Change.pdf) |
 
 ---
 
